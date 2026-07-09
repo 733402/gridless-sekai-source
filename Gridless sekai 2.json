@@ -1,0 +1,37 @@
+{
+  "name": "Gridless sekai",
+  "subtitle": "",
+  "description": "",
+  "iconURL": "https://i.imgur.com/98XcXrR.png",
+  "website": "https://github.com/UnknownSekai/GridlessSekai-Retro",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.sbuga.gridlesssekair"
+  ],
+  "apps": [
+    {
+      "name": "GridlessSekai RETRO",
+      "bundleIdentifier": "com.sbuga.gridlesssekair",
+      "marketplaceID": "",
+      "developerName": "UnknownSekai",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "A fully offline archive of a certain popular mobile rhythm game (JP, v2.8.0 - released 2023). Yes, you can play it without internet!\n\nThis app is a sandbox. All songs, cards, etc. are unlocked and maxed. THE APP WILL NOT WORK WITHOUT ASSETS! YOU MUST DOWNLOAD ASSETS BEFORE USING IT.\n",
+      "iconURL": "https://i.imgur.com/VoVJXzt.png",
+      "tintColor": "#3486bd",
+      "category": "other",
+      "screenshots": [
+        "https://raw.githubusercontent.com/733402/gridless-sekai-source/refs/heads/main/IMG_3573.jpeg",
+        "https://repo.untitledcharts.com/assets/retrosekai/title.png",
+        "https://repo.untitledcharts.com/assets/retrosekai/gameplay.png"
+      ],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
