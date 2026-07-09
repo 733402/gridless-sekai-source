@@ -19,13 +19,23 @@
       "localizedDescription": "A fully offline archive of a certain popular mobile rhythm game (JP, v2.8.0 - released 2023). Yes, you can play it without internet!\n\nThis app is a sandbox. All songs, cards, etc. are unlocked and maxed. THE APP WILL NOT WORK WITHOUT ASSETS! YOU MUST DOWNLOAD ASSETS BEFORE USING IT.\n",
       "iconURL": "https://i.imgur.com/VoVJXzt.png",
       "tintColor": "#3486bd",
-      "category": "other",
+      "category": "games",
       "screenshots": [
         "https://raw.githubusercontent.com/733402/gridless-sekai-source/refs/heads/main/IMG_3573.jpeg",
         "https://repo.untitledcharts.com/assets/retrosekai/title.png",
         "https://repo.untitledcharts.com/assets/retrosekai/gameplay.png"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/UnknownSekai/GridlessSekai-Retro/releases/download/v0.0.9-beta/GridlessSekaiRetro.ipa",
+          "size": 158100000,
+          "version": "2.8.0",
+          "buildVersion": null,
+          "date": "2023-09-14T07:00:00-07:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
